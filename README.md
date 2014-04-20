@@ -5,7 +5,6 @@ Specifications:
 
 - Algorithm: Scrypt
 - Max Coins: 210,000,000
-- Block Time: 120 Seconds
 - Block Retarget:KGW
 - Block Rewards(Random):
 - 2 - 25,000 : 80 TOC 
